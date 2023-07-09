@@ -1,0 +1,9 @@
+Nha_rieng 8 15
+C1_BKHN 9 20
+C2_BKHN 10 20
+Nha_rieng 10 30
+Coffee_Highland 12 10
+C1_BKHN 13 20
+C2_BKHN 15 12
+Nha_rieng 20 10
+Coffee_Highland 22 19

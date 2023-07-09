@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main(){
+  printf("Hello\n");
+  printf("HOM NAY LA THU TU \n");
+  return 0;
+}
